@@ -340,17 +340,6 @@ ConnectPath is an academic project and prototype focused on connectivity-aware r
 
 ---
 
-## Author
-
-**Sneha Kanne**
-
-B.Tech - Computer Science and Business Systems  
-Gokaraju Rangaraju Institute of Engineering and Technology (GRIET)
-
-GitHub: https://github.com/Sneha-Kanne
-
----
-
 ## Acknowledgements
 
 This project makes use of open-source technologies and publicly available services, including:
